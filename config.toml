@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = " "
 languageCode = "en-au"
 title = "Hugo Tutorial Getting Started"
 # copyright overrides title for 
