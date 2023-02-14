@@ -1,1 +1,1 @@
-# test d'un simple site hugo
+# test d'un simple site github
