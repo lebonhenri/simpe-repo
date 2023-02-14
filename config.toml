@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-au"
+title = "Hugo Tutorial Getting Started"
+# copyright overrides title for 
+copyright = "Imagine by Riton Inc."
+[markup.goldmark.renderer]
+unsafe = true
+[params]
+# footer = "Footer override, can include **markdown**"
