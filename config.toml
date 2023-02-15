@@ -1,4 +1,4 @@
-baseURL = " http://lebonhenri/lebonhenri.github.io/"
+baseURL = "https://lebonhenri.github.io/"
 languageCode = "en-au"
 title = "Hugo Tutorial Getting Started"
 # copyright overrides title for 
